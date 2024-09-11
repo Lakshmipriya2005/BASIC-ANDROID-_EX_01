@@ -1,4 +1,4 @@
-# BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
+![image](https://github.com/user-attachments/assets/a0973ee1-00d5-475a-af3e-38b886e61aa1)# BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 
 ## AIM:
@@ -121,7 +121,7 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT:
 ## OnCreate Executed:
-<img ![image](https://github.com/user-attachments/assets/0c1a2a07-8c5f-4ebc-adad-67b7090fcd24)
+<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b" width="400">
 
 ## OnPause Executed:
 <img src="https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6" width="400">
